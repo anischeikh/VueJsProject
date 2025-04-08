@@ -1,4 +1,4 @@
-# vue-project
+# vue-project ( je vais reprendre le projet été 2025)
 
 This template should help get you started developing with Vue 3 
 
